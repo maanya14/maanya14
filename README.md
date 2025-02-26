@@ -1,5 +1,6 @@
-👋 Hi, I'm Maanya
-I'm a passionate B.Tech CSE (2nd Year) student with an interest in coding, Frontend Development, Backend Development, Web Technologies, AI, and Robotics. I love exploring new technologies and building innovative projects to solve real-world problems 🚀.
+👋 Hi, I'm Maanya!
+
+🚀 A passionate B.Tech CSE (2nd Year) student interested in Frontend & Backend Development, Web Technologies, AI, and Robotics. I love exploring new technologies and building innovative projects to solve real-world problems.
 
 🔥 About Me:
 
@@ -14,6 +15,7 @@ I'm a passionate B.Tech CSE (2nd Year) student with an interest in coding, Front
 
 
 💪 Tech Stack:
+
 I'm always expanding my toolkit and learning new technologies.
 
 Languages & Frameworks:
@@ -38,29 +40,37 @@ Tools & Technologies:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 📌 Current Projects:
+
 Jaypee Learning Hub: platform providing organized study resources
 JuristiQ: Legal Management System for Advocates
 CampusConnect: College Community Social Media Platform
 Obstacle Avoiding Robot using Arduino Uno
 
+
 📊 GitHub Stats:
 
 General Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maanya14&show_icons=true&theme=radical&count_private=true)
 
 Top Languages:
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maanya14&layout=compact&theme=radical)
 
 🔥Streak Stats:
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=maanya14&theme=radical)](https://git.io/streak-stats)
 
 Trophies:
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maanya14&theme=radical)
 
 📈 Contribution Graph:
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=maanya14&theme=radical)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=maanya14&theme=radical)
 
 📫 How to Reach Me:
+
 ✉️ Email: [maanya.g14@gmail.com](mailto:maanya.g14@gmail.com)  
 🌐 LinkedIn: [Maanya](www.linkedin.com/in/maanya14)  
 🧑‍💻 GitHub: [@maanya14](https://github.com/maanya14)  
